@@ -1,0 +1,9 @@
+D:\SecurityProject\Server\bin\Debug\Server.exe
+D:\SecurityProject\Server\bin\Debug\Server.pdb
+D:\SecurityProject\Server\obj\Debug\Server.exe
+D:\SecurityProject\Server\obj\Debug\Server.pdb
+C:\Users\Ismail Hamed\Desktop\Secutity\SecurityProject\Server\bin\Debug\Server.exe
+C:\Users\Ismail Hamed\Desktop\Secutity\SecurityProject\Server\bin\Debug\Server.pdb
+C:\Users\Ismail Hamed\Desktop\Secutity\SecurityProject\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Ismail Hamed\Desktop\Secutity\SecurityProject\Server\obj\Debug\Server.exe
+C:\Users\Ismail Hamed\Desktop\Secutity\SecurityProject\Server\obj\Debug\Server.pdb
